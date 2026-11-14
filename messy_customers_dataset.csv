@@ -1,0 +1,363 @@
+CustomerID,Name,Gender,Age,SignupDate,City,Spend,Email
+0177,  amit sharma ,,33,2024-01-12,  Agra ,1200,invalid-email
+0063,Amit Sharma,Other,38,2024-01-12,Mathura,2500,
+0190,,Female,62,Feb 5 2024,Agra,9999,invalid-email
+0235,,M,72,Feb 5 2024,,2500,invalid-email
+0049,Amit Sharma,Female,73,not available,  Agra ,2500,test@gmail.com
+0051,  amit sharma ,Other,43,12/02/2024,Noida,15000,test@gmail.com
+0246,Neha Verma,Male,40,2024/03/20,Delhi,2500,invalid-email
+0033,Ravi Kumar,Other,35,2024-01-12,  Agra ,,invalid-email
+0030,Ravi Kumar,M,48,2024/03/20,DELHI,2500,user@example.com
+0187,Amit Sharma,,69,not available,  Agra ,-500,
+0076,  amit sharma ,Female,59,2024-01-12,Mathura,,user@example.com
+0015,,Female,29,not available,Mathura,4999,test@gmail.com
+0082,Priya Singh,F,18,not available,Mathura,2500,test@gmail.com
+0092,Neha Verma,F,59,,Noida,1200,user@example.com
+0023,Amit Sharma,Other,26,Feb 5 2024,  Agra ,,
+0206,Ravi Kumar,Other,20,,,,invalid-email
+0094,,Male,999,2024/03/20,,9999,user@example.com
+0225,NEHA VERMA,female,68,2024/03/20,  Agra ,4999,test@gmail.com
+0045,NEHA VERMA,M,43,Feb 5 2024,,2500,
+0062,  amit sharma ,F,26,,delhi,unknown,test@gmail.com
+0207,  amit sharma ,M,59,2024/03/20,Noida,1200,
+0199,Amit Sharma,Male,68,,Delhi,9999,
+0015,Priya Singh,F,33,Feb 5 2024,Delhi,4999,
+0244,Ravi Kumar,F,41,2024-01-12,Delhi,-500,user@example.com
+0234,Amit Sharma,female,67,not available,Delhi,,user@example.com
+0046,Priya Singh,M,31,not available,Delhi,1200,user@example.com
+0064,,,-5,,,-500,
+0230,  amit sharma ,M,20,2024/03/20,Agra,2500,
+0174,NEHA VERMA,M,51,,Mathura,unknown,test@gmail.com
+0184,Neha Verma,female,50,,Noida,15000,invalid-email
+0249,,F,67,12/02/2024,Agra,15000,user@example.com
+0246,NEHA VERMA,Male,41,not available,Noida,4999,
+0172,Ravi Kumar,M,26,Feb 5 2024,delhi,unknown,test@gmail.com
+0075,Ravi Kumar,Female,30,,  Agra ,1200,test@gmail.com
+0157,NEHA VERMA,,19,12/02/2024,DELHI,9999,test@gmail.com
+0223,,,24,12/02/2024,Mathura,1200,user@example.com
+0190,NEHA VERMA,female,65,not available,delhi,unknown,user@example.com
+0217,Priya Singh,male,38,not available,Agra,-500,invalid-email
+0052,Amit Sharma,Male,36,not available,DELHI,,test@gmail.com
+0182,  amit sharma ,Female,42,Feb 5 2024,  Agra ,15000,user@example.com
+0088,Priya Singh,M,64,12/02/2024,delhi,4999,test@gmail.com
+0057,Neha Verma,male,39,2024/03/20,  Agra ,2500,
+0083,NEHA VERMA,Male,28,Feb 5 2024,  Agra ,1200,test@gmail.com
+0066,Neha Verma,female,50,2024-01-12,,15000,invalid-email
+0150,Neha Verma,male,49,,Noida,9999,user@example.com
+0020,Priya Singh,F,38,not available,DELHI,4999,
+0033,  amit sharma ,Other,56,12/02/2024,Noida,2500,user@example.com
+0072,,male,37,,  Agra ,1200,
+0025,Ravi Kumar,Other,25,Feb 5 2024,,9999,test@gmail.com
+0046,Amit Sharma,,59,2024-01-12,delhi,2500,test@gmail.com
+0073,Ravi Kumar,Female,54,Feb 5 2024,  Agra ,,invalid-email
+0098,  amit sharma ,Male,26,Feb 5 2024,Agra,15000,invalid-email
+0057,Ravi Kumar,Female,42,2024/03/20,  Agra ,,
+0087,NEHA VERMA,Female,42,,Noida,15000,invalid-email
+0133,NEHA VERMA,M,50,2024/03/20,DELHI,9999,invalid-email
+0055,Priya Singh,female,19,Feb 5 2024,delhi,-500,invalid-email
+0061,Neha Verma,male,36,2024-01-12,Noida,,invalid-email
+0089,  amit sharma ,Male,63,12/02/2024,  Agra ,15000,test@gmail.com
+0008,  amit sharma ,,37,12/02/2024,Agra,4999,invalid-email
+0016,Ravi Kumar,F,59,,Mathura,9999,test@gmail.com
+0246,Priya Singh,female,58,not available,,15000,test@gmail.com
+0176,Ravi Kumar,female,59,not available,Agra,1200,user@example.com
+0237,Ravi Kumar,Male,46,12/02/2024,  Agra ,15000,test@gmail.com
+0116,  amit sharma ,female,23,Feb 5 2024,Agra,,test@gmail.com
+0061,Ravi Kumar,M,34,Feb 5 2024,,4999,invalid-email
+0015,Neha Verma,female,999,2024/03/20,Mathura,2500,test@gmail.com
+0193,Ravi Kumar,,42,,Agra,-500,
+0150,Neha Verma,,55,2024/03/20,Mathura,2500,invalid-email
+0131,  amit sharma ,M,21,not available,  Agra ,15000,invalid-email
+0102,Priya Singh,male,47,12/02/2024,Mathura,2500,invalid-email
+0054,NEHA VERMA,male,37,Feb 5 2024,Noida,15000,user@example.com
+0014,Neha Verma,Female,20,12/02/2024,Noida,4999,invalid-email
+0036,Priya Singh,,40,2024-01-12,Mathura,2500,test@gmail.com
+0210,Priya Singh,M,68,12/02/2024,delhi,,
+0239,Neha Verma,F,35,2024-01-12,DELHI,,invalid-email
+0105,  amit sharma ,male,43,2024/03/20,delhi,1200,invalid-email
+0082,Amit Sharma,female,73,2024/03/20,Mathura,15000,
+0067,Priya Singh,Male,53,not available,DELHI,2500,invalid-email
+0010,Priya Singh,Male,25,12/02/2024,Noida,,user@example.com
+0049,  amit sharma ,Other,34,12/02/2024,DELHI,unknown,test@gmail.com
+0231,  amit sharma ,,48,2024-01-12,Mathura,4999,
+0111,Ravi Kumar,M,54,2024/03/20,Noida,-500,
+0065,  amit sharma ,F,62,2024-01-12,DELHI,4999,user@example.com
+0219,Priya Singh,Female,74,2024/03/20,DELHI,unknown,test@gmail.com
+0057,Neha Verma,female,50,2024-01-12,delhi,unknown,user@example.com
+0027,Amit Sharma,M,44,2024/03/20,DELHI,1200,test@gmail.com
+0203,,Other,62,2024-01-12,  Agra ,4999,user@example.com
+0113,Ravi Kumar,Male,21,2024/03/20,Mathura,4999,invalid-email
+0133,,M,39,,Delhi,2500,user@example.com
+0071,Neha Verma,female,43,2024-01-12,Delhi,15000,
+0083,Amit Sharma,F,49,12/02/2024,Delhi,9999,
+0057,Amit Sharma,,41,not available,Mathura,-500,
+0120,Amit Sharma,F,63,,Delhi,4999,user@example.com
+0093,NEHA VERMA,male,52,,delhi,-500,
+0015,Neha Verma,female,54,2024-01-12,Mathura,-500,
+0227,Ravi Kumar,Other,49,not available,  Agra ,-500,invalid-email
+0111,Ravi Kumar,male,24,12/02/2024,Noida,4999,invalid-email
+0101,Amit Sharma,male,50,,  Agra ,9999,test@gmail.com
+0119,Neha Verma,male,48,12/02/2024,Mathura,4999,test@gmail.com
+0076,NEHA VERMA,M,72,2024/03/20,Mathura,2500,test@gmail.com
+0158,Amit Sharma,Other,-5,not available,DELHI,2500,user@example.com
+0020,  amit sharma ,Male,29,Feb 5 2024,DELHI,9999,test@gmail.com
+0165,,F,28,2024/03/20,DELHI,,user@example.com
+0131,Ravi Kumar,,41,not available,,4999,user@example.com
+0073,,M,25,2024-01-12,,,test@gmail.com
+0122,Priya Singh,Male,49,2024-01-12,Agra,-500,test@gmail.com
+0041,Amit Sharma,F,74,12/02/2024,,4999,user@example.com
+0167,  amit sharma ,,55,,delhi,15000,invalid-email
+0154,Ravi Kumar,Other,999,Feb 5 2024,Mathura,4999,
+0130,,,39,2024-01-12,  Agra ,2500,
+0023,NEHA VERMA,Other,51,not available,Mathura,1200,
+0023,Neha Verma,female,36,,DELHI,unknown,invalid-email
+0213,Ravi Kumar,,69,,Mathura,1200,user@example.com
+0144,,F,37,not available,Noida,1200,test@gmail.com
+0009,Neha Verma,F,73,,,1200,user@example.com
+0013,,Other,31,2024-01-12,Mathura,unknown,user@example.com
+0156,Neha Verma,F,50,not available,  Agra ,,test@gmail.com
+0155,NEHA VERMA,Female,27,not available,Delhi,unknown,invalid-email
+0051,NEHA VERMA,female,33,12/02/2024,Noida,,
+0064,Amit Sharma,M,21,Feb 5 2024,Noida,unknown,
+0052,Amit Sharma,,44,12/02/2024,Mathura,unknown,user@example.com
+0209,Ravi Kumar,M,45,Feb 5 2024,Agra,4999,invalid-email
+0038,NEHA VERMA,Male,-5,not available,DELHI,,
+0100,  amit sharma ,M,60,,delhi,4999,invalid-email
+0193,,male,33,Feb 5 2024,delhi,15000,test@gmail.com
+0146,,F,,not available,Delhi,4999,user@example.com
+0191,,M,69,not available,delhi,1200,user@example.com
+0051,Ravi Kumar,Male,50,12/02/2024,delhi,9999,invalid-email
+0137,,Male,65,12/02/2024,DELHI,9999,
+0141,Priya Singh,male,36,,,2500,invalid-email
+0168,Neha Verma,Male,38,2024/03/20,DELHI,2500,test@gmail.com
+0055,,Other,39,2024-01-12,Agra,-500,
+0109,Neha Verma,Female,26,2024/03/20,  Agra ,4999,
+0207,Amit Sharma,Other,26,2024/03/20,Delhi,unknown,invalid-email
+0171,,F,26,,delhi,unknown,test@gmail.com
+0044,  amit sharma ,F,44,Feb 5 2024,Agra,9999,
+0110,NEHA VERMA,F,34,,Delhi,1200,user@example.com
+0196,NEHA VERMA,female,61,,Noida,,test@gmail.com
+0161,Amit Sharma,M,74,not available,delhi,1200,
+0152,Priya Singh,Female,62,not available,delhi,-500,invalid-email
+0164,Ravi Kumar,M,25,not available,DELHI,1200,
+0243,Ravi Kumar,Female,33,2024-01-12,Mathura,4999,user@example.com
+0128,  amit sharma ,M,35,Feb 5 2024,Delhi,4999,test@gmail.com
+0105,Amit Sharma,male,-5,Feb 5 2024,delhi,15000,
+0010,Amit Sharma,,,not available,,-500,user@example.com
+0100,Priya Singh,Other,50,2024/03/20,Delhi,1200,
+0148,,Male,18,2024-01-12,  Agra ,unknown,
+0233,Ravi Kumar,Male,29,2024/03/20,,unknown,test@gmail.com
+0109,,Other,23,12/02/2024,Agra,-500,invalid-email
+0108,Amit Sharma,male,58,Feb 5 2024,,1200,invalid-email
+0203,,Female,72,Feb 5 2024,Agra,4999,user@example.com
+0140,NEHA VERMA,Other,22,2024/03/20,Mathura,4999,user@example.com
+0190,  amit sharma ,female,,2024-01-12,delhi,15000,user@example.com
+0146,Ravi Kumar,Female,33,Feb 5 2024,,15000,test@gmail.com
+0094,Priya Singh,Male,35,2024/03/20,  Agra ,2500,invalid-email
+0236,  amit sharma ,female,66,,DELHI,-500,user@example.com
+0240,Neha Verma,M,35,,delhi,9999,user@example.com
+0229,NEHA VERMA,female,18,2024-01-12,Delhi,1200,
+0063,Priya Singh,Female,36,2024/03/20,Noida,-500,
+0084,  amit sharma ,male,71,,Agra,unknown,user@example.com
+0025,Amit Sharma,M,-5,2024-01-12,Delhi,1200,
+0012,Neha Verma,Female,25,not available,Mathura,15000,
+0149,Priya Singh,M,20,2024-01-12,Agra,15000,
+0025,Amit Sharma,female,75,12/02/2024,DELHI,2500,test@gmail.com
+0011,NEHA VERMA,Male,42,not available,Agra,9999,user@example.com
+0064,Neha Verma,Female,75,2024/03/20,Noida,2500,user@example.com
+0201,Ravi Kumar,,22,not available,,unknown,
+0126,Amit Sharma,male,72,not available,  Agra ,9999,test@gmail.com
+0050,  amit sharma ,,57,2024/03/20,,,
+0190,,,36,2024/03/20,delhi,1200,test@gmail.com
+0089,Priya Singh,Other,35,,Noida,2500,user@example.com
+0099,Neha Verma,female,67,12/02/2024,  Agra ,15000,
+0116,Amit Sharma,Female,70,2024/03/20,Noida,2500,user@example.com
+0096,Ravi Kumar,male,48,Feb 5 2024,delhi,,test@gmail.com
+0177,,Female,50,Feb 5 2024,Agra,2500,invalid-email
+0014,Priya Singh,female,64,12/02/2024,Mathura,1200,test@gmail.com
+0001,Priya Singh,Female,35,2024-01-12,delhi,,invalid-email
+0209,Amit Sharma,M,-5,2024-01-12,delhi,-500,user@example.com
+0025,Ravi Kumar,female,74,Feb 5 2024,  Agra ,-500,user@example.com
+0187,NEHA VERMA,Female,56,2024/03/20,DELHI,-500,
+0072,,Other,33,12/02/2024,,15000,invalid-email
+0069,NEHA VERMA,Male,33,2024-01-12,Agra,15000,test@gmail.com
+0133,Neha Verma,Female,64,2024-01-12,delhi,-500,user@example.com
+0105,Amit Sharma,M,55,not available,Mathura,-500,invalid-email
+0227,,male,58,Feb 5 2024,Delhi,-500,test@gmail.com
+0147,Neha Verma,Other,24,2024/03/20,Agra,4999,invalid-email
+0023,NEHA VERMA,male,31,12/02/2024,DELHI,-500,test@gmail.com
+0009,,,60,2024-01-12,Noida,,test@gmail.com
+0118,Priya Singh,Other,70,not available,delhi,4999,test@gmail.com
+0094,Neha Verma,male,65,Feb 5 2024,Mathura,4999,test@gmail.com
+0178,Ravi Kumar,Male,42,Feb 5 2024,Agra,1200,invalid-email
+0144,  amit sharma ,M,49,12/02/2024,Mathura,2500,invalid-email
+0033,NEHA VERMA,,55,2024-01-12,Mathura,15000,
+0130,NEHA VERMA,female,39,12/02/2024,,15000,invalid-email
+0014,Ravi Kumar,male,,12/02/2024,  Agra ,2500,invalid-email
+0238,,Other,33,,Noida,15000,
+0001,,M,69,not available,DELHI,2500,invalid-email
+0090,,Female,46,Feb 5 2024,,,test@gmail.com
+0186,Neha Verma,Male,33,,Agra,1200,user@example.com
+0089,Amit Sharma,M,29,2024/03/20,delhi,-500,user@example.com
+0144,Priya Singh,M,34,Feb 5 2024,DELHI,1200,
+0207,  amit sharma ,female,54,Feb 5 2024,delhi,unknown,invalid-email
+0090,Amit Sharma,M,44,not available,Delhi,1200,invalid-email
+0175,Amit Sharma,female,42,2024/03/20,Mathura,2500,
+0172,Ravi Kumar,Male,30,2024-01-12,Delhi,unknown,user@example.com
+0208,Neha Verma,Male,25,2024/03/20,  Agra ,2500,test@gmail.com
+0014,NEHA VERMA,Female,73,2024-01-12,Mathura,-500,invalid-email
+0221,NEHA VERMA,female,22,2024/03/20,Noida,9999,
+0152,Ravi Kumar,female,29,12/02/2024,DELHI,unknown,test@gmail.com
+0111,Neha Verma,male,58,2024/03/20,delhi,-500,
+0183,Ravi Kumar,male,20,,,-500,
+0143,NEHA VERMA,Female,52,,  Agra ,15000,
+0083,Amit Sharma,Male,50,not available,Noida,15000,user@example.com
+0072,Priya Singh,F,74,2024-01-12,delhi,9999,user@example.com
+0162,,male,39,Feb 5 2024,DELHI,9999,
+0130,Neha Verma,M,67,not available,Agra,1200,invalid-email
+0027,  amit sharma ,Male,73,,  Agra ,-500,test@gmail.com
+0074,  amit sharma ,F,61,,Delhi,9999,invalid-email
+0099,Amit Sharma,,26,2024-01-12,Delhi,2500,user@example.com
+0215,Ravi Kumar,M,58,,,-500,test@gmail.com
+0241,Ravi Kumar,Other,35,,delhi,4999,
+0072,NEHA VERMA,female,67,2024-01-12,delhi,2500,invalid-email
+0220,Amit Sharma,Male,46,,delhi,unknown,invalid-email
+0023,NEHA VERMA,Other,56,Feb 5 2024,  Agra ,9999,
+0068,NEHA VERMA,Female,44,12/02/2024,DELHI,15000,invalid-email
+0142,  amit sharma ,female,53,not available,Agra,2500,user@example.com
+0191,NEHA VERMA,female,62,Feb 5 2024,Delhi,15000,
+0117,,M,34,Feb 5 2024,Noida,2500,invalid-email
+0106,NEHA VERMA,Other,73,12/02/2024,Mathura,15000,
+0093,  amit sharma ,female,51,not available,  Agra ,,test@gmail.com
+0065,,male,63,Feb 5 2024,  Agra ,2500,
+0068,Ravi Kumar,Male,20,,DELHI,unknown,invalid-email
+0128,Neha Verma,male,22,12/02/2024,Delhi,15000,user@example.com
+0063,Priya Singh,M,31,not available,,4999,
+0224,NEHA VERMA,F,20,2024/03/20,Agra,unknown,
+0225,,,40,2024-01-12,DELHI,1200,invalid-email
+0113,Neha Verma,M,56,,Noida,2500,user@example.com
+0090,  amit sharma ,Male,47,12/02/2024,Delhi,4999,user@example.com
+0081,Neha Verma,female,67,2024-01-12,DELHI,1200,test@gmail.com
+0103,Priya Singh,Other,62,2024/03/20,Delhi,2500,test@gmail.com
+0215,Neha Verma,Other,-5,Feb 5 2024,Delhi,4999,invalid-email
+0192,,Female,40,Feb 5 2024,,4999,user@example.com
+0160,Neha Verma,M,44,not available,  Agra ,unknown,user@example.com
+0116,Neha Verma,Male,71,12/02/2024,Agra,,test@gmail.com
+0207,Neha Verma,Female,27,12/02/2024,  Agra ,4999,test@gmail.com
+0013,Amit Sharma,female,42,not available,Mathura,,invalid-email
+0194,NEHA VERMA,F,30,2024-01-12,Agra,9999,user@example.com
+0124,  amit sharma ,M,33,Feb 5 2024,Delhi,unknown,
+0147,Priya Singh,F,58,Feb 5 2024,DELHI,-500,test@gmail.com
+0152,  amit sharma ,Male,51,12/02/2024,Noida,15000,invalid-email
+0237,Amit Sharma,F,72,12/02/2024,,unknown,user@example.com
+0088,Amit Sharma,F,54,not available,Agra,1200,user@example.com
+0011,,Male,-5,2024/03/20,Mathura,15000,test@gmail.com
+0187,Amit Sharma,Male,39,2024-01-12,Delhi,15000,invalid-email
+0214,NEHA VERMA,M,34,,Noida,-500,
+0015,Amit Sharma,F,40,2024/03/20,Agra,,test@gmail.com
+0010,Neha Verma,Female,71,2024/03/20,  Agra ,-500,invalid-email
+0041,  amit sharma ,,53,12/02/2024,  Agra ,-500,user@example.com
+0155,Ravi Kumar,Male,66,12/02/2024,Agra,15000,
+0188,Priya Singh,female,26,12/02/2024,Agra,4999,invalid-email
+0073,Amit Sharma,F,69,2024/03/20,Agra,,
+0052,  amit sharma ,Male,19,2024-01-12,Noida,15000,invalid-email
+0128,,Female,49,12/02/2024,  Agra ,,invalid-email
+0028,Amit Sharma,Other,73,Feb 5 2024,DELHI,9999,invalid-email
+0065,NEHA VERMA,M,67,2024-01-12,Mathura,,invalid-email
+0017,Amit Sharma,F,70,Feb 5 2024,Mathura,2500,
+0095,Amit Sharma,Other,,2024-01-12,,4999,test@gmail.com
+0172,Amit Sharma,Male,39,12/02/2024,Delhi,1200,
+0138,,Male,60,,delhi,2500,invalid-email
+0063,Amit Sharma,female,30,not available,DELHI,2500,
+0229,Priya Singh,female,25,12/02/2024,  Agra ,-500,
+0221,  amit sharma ,F,,2024/03/20,Delhi,-500,
+0210,NEHA VERMA,Other,18,,,2500,invalid-email
+0175,Amit Sharma,,34,2024/03/20,Delhi,15000,
+0038,Amit Sharma,Other,29,2024-01-12,Agra,,user@example.com
+0231,Amit Sharma,Male,21,2024/03/20,delhi,,invalid-email
+0241,Amit Sharma,,70,,  Agra ,unknown,
+0070,Neha Verma,F,30,,delhi,15000,user@example.com
+0104,Neha Verma,Male,48,12/02/2024,DELHI,4999,
+0204,Ravi Kumar,female,-5,Feb 5 2024,delhi,15000,test@gmail.com
+0053,Amit Sharma,Female,58,12/02/2024,Delhi,15000,
+0206,Ravi Kumar,male,,2024-01-12,delhi,15000,
+0172,Priya Singh,,24,2024/03/20,delhi,4999,test@gmail.com
+0119,Ravi Kumar,male,40,Feb 5 2024,Mathura,unknown,invalid-email
+0074,  amit sharma ,Male,41,not available,  Agra ,4999,test@gmail.com
+0054,Neha Verma,Other,22,,  Agra ,9999,invalid-email
+0020,Neha Verma,female,22,Feb 5 2024,Delhi,unknown,test@gmail.com
+0079,Amit Sharma,M,34,Feb 5 2024,Noida,9999,
+0031,Amit Sharma,M,47,12/02/2024,delhi,9999,
+0135,Priya Singh,male,26,not available,delhi,9999,invalid-email
+0058,NEHA VERMA,Female,23,,Agra,,invalid-email
+0105,Priya Singh,male,42,2024-01-12,  Agra ,2500,user@example.com
+0010,  amit sharma ,Male,36,2024-01-12,delhi,2500,user@example.com
+0010,Amit Sharma,Female,33,Feb 5 2024,  Agra ,9999,
+0240,Amit Sharma,M,38,Feb 5 2024,delhi,9999,
+0039,Priya Singh,Other,19,2024/03/20,Mathura,1200,user@example.com
+0156,Priya Singh,female,27,not available,Delhi,-500,user@example.com
+0158,Priya Singh,,33,,  Agra ,2500,invalid-email
+0037,Neha Verma,female,54,Feb 5 2024,DELHI,-500,test@gmail.com
+0119,Ravi Kumar,Male,32,2024/03/20,Delhi,-500,invalid-email
+0067,Ravi Kumar,male,30,not available,Agra,1200,user@example.com
+0242,Amit Sharma,Male,30,,Delhi,-500,
+0043,Neha Verma,,49,2024-01-12,delhi,unknown,user@example.com
+0207,Priya Singh,female,62,2024/03/20,Agra,1200,
+0213,Amit Sharma,,64,not available,Delhi,-500,
+0052,Neha Verma,M,63,2024/03/20,,-500,
+0101,  amit sharma ,female,25,Feb 5 2024,Agra,15000,
+0056,NEHA VERMA,Female,60,12/02/2024,,-500,test@gmail.com
+0076,Neha Verma,Other,35,2024-01-12,DELHI,,user@example.com
+0068,,,73,Feb 5 2024,Delhi,unknown,invalid-email
+0239,Amit Sharma,Other,53,Feb 5 2024,  Agra ,4999,
+0137,Ravi Kumar,F,43,not available,  Agra ,2500,
+0231,,female,27,2024/03/20,Noida,9999,invalid-email
+0106,Priya Singh,female,48,2024-01-12,delhi,-500,invalid-email
+0125,NEHA VERMA,Other,50,Feb 5 2024,,unknown,
+0092,  amit sharma ,F,46,not available,Agra,9999,invalid-email
+0023,NEHA VERMA,Female,22,2024-01-12,Noida,4999,invalid-email
+0191,NEHA VERMA,male,30,2024/03/20,Noida,unknown,test@gmail.com
+0109,Neha Verma,,18,Feb 5 2024,Mathura,2500,invalid-email
+0061,Amit Sharma,,40,,,unknown,user@example.com
+0168,Amit Sharma,female,57,Feb 5 2024,Agra,9999,user@example.com
+0044,NEHA VERMA,Other,20,Feb 5 2024,Noida,9999,user@example.com
+0214,Priya Singh,Male,20,2024-01-12,Mathura,15000,
+0152,Amit Sharma,female,24,2024-01-12,Noida,-500,user@example.com
+0179,NEHA VERMA,Male,53,2024-01-12,delhi,1200,test@gmail.com
+0186,Amit Sharma,Female,52,2024-01-12,DELHI,unknown,user@example.com
+0218,Priya Singh,female,32,not available,,9999,
+0222,  amit sharma ,,57,12/02/2024,Mathura,,test@gmail.com
+0161,,Other,20,not available,DELHI,2500,user@example.com
+0016,NEHA VERMA,Female,46,Feb 5 2024,Agra,,test@gmail.com
+0022,Ravi Kumar,Female,47,not available,delhi,4999,test@gmail.com
+0241,Ravi Kumar,male,56,2024/03/20,Mathura,unknown,
+0057,NEHA VERMA,female,35,,Agra,15000,
+0062,Neha Verma,Male,28,2024-01-12,Noida,2500,test@gmail.com
+0242,  amit sharma ,Male,60,2024/03/20,  Agra ,15000,user@example.com
+0107,Neha Verma,female,66,,Delhi,1200,
+0210,,F,999,2024/03/20,Agra,9999,test@gmail.com
+0071,Ravi Kumar,male,55,Feb 5 2024,DELHI,-500,invalid-email
+0242,Priya Singh,male,57,2024-01-12,delhi,2500,invalid-email
+0090,NEHA VERMA,male,18,2024/03/20,delhi,4999,
+0072,,Male,46,Feb 5 2024,Agra,-500,user@example.com
+0070,Amit Sharma,Female,27,2024-01-12,Noida,unknown,invalid-email
+0030,Ravi Kumar,Other,45,12/02/2024,Delhi,1200,invalid-email
+0103,  amit sharma ,F,74,Feb 5 2024,,1200,invalid-email
+0151,Ravi Kumar,,48,not available,DELHI,15000,user@example.com
+0032,  amit sharma ,male,36,2024-01-12,Agra,1200,user@example.com
+0086,  amit sharma ,Male,20,2024/03/20,Agra,2500,
+0234,NEHA VERMA,Male,53,,  Agra ,15000,
+0235,  amit sharma ,,60,2024/03/20,delhi,-500,invalid-email
+0057,Neha Verma,Female,32,not available,DELHI,1200,user@example.com
+0177,  amit sharma ,,33,2024-01-12,  Agra ,1200,invalid-email
+0063,Amit Sharma,Other,38,2024-01-12,Mathura,2500,
+0190,,Female,62,Feb 5 2024,Agra,9999,invalid-email
+0235,,M,72,Feb 5 2024,,2500,invalid-email
+0049,Amit Sharma,Female,73,not available,  Agra ,2500,test@gmail.com
+0051,  amit sharma ,Other,43,12/02/2024,Noida,15000,test@gmail.com
+0246,Neha Verma,Male,40,2024/03/20,Delhi,2500,invalid-email
+0033,Ravi Kumar,Other,35,2024-01-12,  Agra ,,invalid-email
+0030,Ravi Kumar,M,48,2024/03/20,DELHI,2500,user@example.com
+0187,Amit Sharma,,69,not available,  Agra ,-500,
+0076,  amit sharma ,Female,59,2024-01-12,Mathura,,user@example.com
+0015,,Female,29,not available,Mathura,4999,test@gmail.com
